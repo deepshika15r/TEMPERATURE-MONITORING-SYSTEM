@@ -48,4 +48,7 @@ The system is **modular and scalable**. More sensors can be added (e.g., humidit
 * Ideal for IoT and remote monitoring use cases
 
 ---
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0f0c8ad1-fe4d-4a72-b422-72a6a26d5fac)
 
